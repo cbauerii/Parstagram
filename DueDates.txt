@@ -1,0 +1,32 @@
+Your Mac username is: user210197
+Your Mac password is: idk25512vdt
+Your Mac IP is: 74.80.245.232
+1clFFLS3Xi6gcWJsrXYH5ujig
+26C33tt9L4kJ9zzfAAUn22NoslE0MeZfOrao9dFUgLlgqxN1B8
+AAAAAAAAAAAAAAAAAAAAAObRYwEAAAAAc%2FBRxgUSdogu7O0jEnh5%2BVOQedM%3DbwmZJZvx65On9Q6oHIBMGhY5UmPS1S4sUUmhRqDtrr8sYjlXTF
+
+User can update medical information.
+
+user:
+	username
+	password
+	dateofbirth
+	legal_name
+	consent
+	createdAt
+
+Personal Information:
+	main_address
+	emergency_contacts
+	updated_info
+
+Main Navigation -> Personal Health Tracking || Medical Info & Prevention || Help!
+
+Medical information:
+	height	:double
+	weight	:double
+	family_history	:dictionary
+	current_medications	:dictionary
+	allergies	:dictionary
+	past_surgeries	:dictionary
+	updated_info	:dictionary	//date when medical information was last updated
